@@ -5,6 +5,7 @@
     <b>A passionate self-learner</b> a <b>Machine Learning Engineer</b>&nbsp; and a web developer,&nbspwho is <b>obsessed</b>
     with <b>Data science, Web Developemnt</b> and always looking to find patterns of which are hidden in the data but also build a mini project based on those patterns
 </em>
+<hr>
 
 - 💡 &nbsp;I like to explore new technologies and develop software solutions and quick code hacks.\
 - 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
