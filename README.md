@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <em>
     Hello, I am Wahyu Tirta a tech ethusiast, AI ethusiast with bachelor degree in computer science from <a href="https://www.unud.ac.id/?lang=en"> <b>Udayana University</b>, Bali</a>. <br>
@@ -7,7 +7,7 @@
 </em>
 <hr>
 
-### about me
+## about me
 - 💡 &nbsp;I like to explore new technologies and develop software solutions and quick code hacks.
 - 🎓 &nbsp;Bachelor of Computer Science from Udayana University
 - 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, and web development.
@@ -18,8 +18,8 @@
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyutirta&layout=compact&langs_count=8&theme=algolia" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
-## 💻&nbsp;Programming Language
+## 🛠 &nbsp;Tech Stack
+### 💻&nbsp;Programming Language
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -30,20 +30,20 @@
 
 </p>
 
-## 🔗&nbsp;Database
+### 🔗&nbsp;Database
 <p>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-## 📚&nbsp;Utils Library
+### 📚&nbsp;Utils Library
 <p>
 <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white">
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 </p>
 
-## 🎰&nbsp;Machine learning Library or Frameworks
+### 🎰&nbsp;Machine learning Library or Frameworks
 <p>
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 </p>
 
-## 📐&nbsp;Development Frameworks
+### 📐&nbsp;Development Frameworks
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
@@ -81,7 +81,7 @@
 
 <hr>
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 <p>
   <a href="mailto:wahyutirta12345@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/wahyyutt/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
