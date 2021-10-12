@@ -11,7 +11,7 @@
 - ⚡ &nbsp;Fun fact: ...
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyutirta&layout=compact&langs_count=8&theme=algolia" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
