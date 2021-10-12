@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<em>
+    Hello, I am Wahyu Tirta a tech ethusiast, AI ethusiast with bachelor degree in computer science from <a href="https://www.unud.ac.id/?lang=en"> <b>Udayana University</b>, Bali</a>. <br>
+    <b>a passionate self-learner</b> a <b>Machine Learning Engineer</b>&nbsp; and a web developer&nbsp,<br>who is <b>obsessed</b>
+    with <b>Data science, Web Developemnt</b> and always looking to find patterns of which are hidden in the data and also build a mini project based on the pattern a.k. knowledge
+</em>
+
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick code hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
@@ -33,6 +39,6 @@
 <p align="center">
 <a href="https://github.com/wahyutirta">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyutirta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyutirta&layout=compact&langs_count=8&theme=algolia"/>
+  
 </a>
 </p>
